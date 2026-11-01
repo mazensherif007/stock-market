@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/gu4pafNCXng" target="_blank">
       <img src="public/readme/hero.webp" alt="Project Banner">
     </a>
   <br />
